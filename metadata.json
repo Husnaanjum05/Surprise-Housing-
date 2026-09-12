@@ -1,0 +1,6 @@
+{
+  "name": "Surprise Housing - Real Estate Predictive Valuation Report",
+  "description": "Comprehensive data science and machine learning research report evaluating property valuation models (OLS, Ridge, Lasso, ElasticNet, Gradient Boosting) for Surprise Housing's Australian market expansion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
